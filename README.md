@@ -1,2 +1,2 @@
-# sanphamstem.github.io
+# samphamstem.github.io
 my stem project 
